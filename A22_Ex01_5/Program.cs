@@ -29,11 +29,11 @@ namespace A22_Ex01_5
         {
             Console.WriteLine("Yalla Ex5");
             int userInput = GetUserInput();
-            Console.WriteLine("Greatest User Input=" + FindGreatestDigit(userInput));
-            Console.WriteLine("Avg Sum of digits= " + SumDigsAvg(userInput));
-            Console.WriteLine("Number of digits that divides by3=" + CountHowManyDigitsDevidesBy3(userInput));
-            Console.WriteLine("Number of digits that are smaller than the rightest digit=" + CountDigsThatAreSmallerThenRightestDig(userInput));
-            Console.WriteLine("Press Any key to quit");
+            Console.WriteLine("Greatest User Input = " + FindGreatestDigit(userInput));
+            Console.WriteLine("Avg Sum of digits = " + SumDigsAvg(userInput));
+            Console.WriteLine("Number of digits that divides by 3 = " + CountHowManyDigitsDevidesBy3(userInput));
+            Console.WriteLine("Number of digits that are smaller than the rightest digit = " + CountDigsThatAreSmallerThenRightestDig(userInput));
+            Console.WriteLine("Press Any key to quit ");
             Console.ReadLine();
 
         }
@@ -117,9 +117,9 @@ namespace A22_Ex01_5
             return dig + SumDigs(num / 10);
 
         }
-        public static int SumDigsAvg(int num)
+        public static float SumDigsAvg(int num)
         {
-            return SumDigs(num) / num.ToString().Length;
+            return (float)SumDigs(num) / num.ToString().Length;
 
         }
 

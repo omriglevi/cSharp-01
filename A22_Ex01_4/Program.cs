@@ -26,13 +26,13 @@ namespace A22_Ex01_4
             public static void AnalyzeString()
             {
                 string userInput = GetUserInput();
-                Console.WriteLine(IsPlyndrom(userInput));
+                Console.WriteLine("Is plyndrom = "+IsPlyndrom(userInput));
                 if (!IsPureIntegersString(userInput))
                 {
-                    Console.WriteLine(CountUpperCaseLetters(userInput));
+                    Console.WriteLine("Upper case chars="+CountUpperCaseLetters(userInput));
                     return;
                 }
-                Console.WriteLine(DoesDividesBy4(int.Parse(userInput)));
+                Console.WriteLine("Does Divide by 4="+DoesDividesBy4(int.Parse(userInput)));
 
             }
 
