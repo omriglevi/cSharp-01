@@ -1,0 +1,7 @@
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_5\obj\Debug\A22_Ex01_5.csproj.AssemblyReference.cache
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_5\obj\Debug\A22_Ex01_5.csproj.CoreCompileInputs.cache
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_5\bin\Debug\A22_Ex01_5.exe.config
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_5\bin\Debug\A22_Ex01_5.exe
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_5\bin\Debug\A22_Ex01_5.pdb
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_5\obj\Debug\A22_Ex01_5.exe
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_5\obj\Debug\A22_Ex01_5.pdb

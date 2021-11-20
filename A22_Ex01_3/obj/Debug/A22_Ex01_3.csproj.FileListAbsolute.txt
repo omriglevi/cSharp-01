@@ -1,0 +1,11 @@
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_3\obj\Debug\A22_Ex01_3.csproj.CoreCompileInputs.cache
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_3\bin\Debug\A22_Ex01_3.exe.config
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_3\bin\Debug\A22_Ex01_3.exe
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_3\bin\Debug\A22_Ex01_3.pdb
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_3\bin\Debug\A22_Ex01_2.exe
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_3\bin\Debug\A22_Ex01_2.pdb
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_3\bin\Debug\A22_Ex01_2.exe.config
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_3\obj\Debug\A22_Ex01_3.csproj.AssemblyReference.cache
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_3\obj\Debug\A22_Ex01_3.csproj.CopyComplete
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_3\obj\Debug\A22_Ex01_3.exe
+C:\Users\ofria\Desktop\עמרי\Code\A22 Ex01 OmriLevy 307881326\A22 Ex01 Omri 307881326\A22_Ex01_3\obj\Debug\A22_Ex01_3.pdb
